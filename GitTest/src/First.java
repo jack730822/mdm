@@ -9,9 +9,9 @@ public class First {
 		String d = "3";
 		String f = "5";
 		String g = "67";
-		String gg = "66666777778";
+		String gg = "6666677777888";
 		
 		
-		String ggg = "22";
+		String ggg = "2211";
 	}
 }
