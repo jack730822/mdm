@@ -9,6 +9,6 @@ public class First {
 		String d = "3";
 		String f = "5";
 		String g = "67";
-		String gg = "66677";
+		String gg = "666777";
 	}
 }
