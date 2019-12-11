@@ -4,6 +4,7 @@ public class First {
 	public void main() {
 		String a = "0";
 		String b = "1BBAACC";
+		String bb = "1BBAADD";
 		String c = "2";
 		String e = "4";
 		String d = "3";
@@ -12,6 +13,6 @@ public class First {
 		String gg = "6666677777888";
 		
 		
-		String ggg = "22113BBAACC";
+		String ggg = "22113BBAACCDD";
 	}
 }
